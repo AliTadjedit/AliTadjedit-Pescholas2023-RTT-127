@@ -1,0 +1,4 @@
+In this example, we will read the file content from two different files and write their combined output into a single separate file.
+In total, we will create three channels:
+We will create two channels for the source file.
+We will create one channel for the destination file
